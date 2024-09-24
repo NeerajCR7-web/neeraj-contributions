@@ -2,7 +2,7 @@
 
 ## Neeraj Kumar
 
-![Neeraj Kumar](../images/Neeraj.jpg)
+![Neeraj Kumar](../images/Neeraj.jpg width="50" height="50")
 
 ## About me
 I am an Enthusiastic student eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Web developer with a strong eye for innovative design and a keen 
