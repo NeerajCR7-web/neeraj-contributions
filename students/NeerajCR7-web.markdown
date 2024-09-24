@@ -2,7 +2,7 @@
 
 ## Neeraj
 
-![Neeraj](images/ME (1).jpg)
+![Neeraj](../images/mine.jpg)
 
 Fullstack Web Developer.
 
