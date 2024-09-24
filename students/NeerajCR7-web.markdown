@@ -8,8 +8,8 @@
 I am an Enthusiastic student eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Web developer with a strong eye for innovative design and a keen 
 understanding of techniques geared toward optimum user experience.
 
-[![GitHub](https://github.com/NeerajCR7-web)
-[![Gmail Badge](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![GitHub badge](https://github.com/NeerajCR7-web)]
+[![Gmail Badge](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)]
 
 ## Skills
 ### Technical Skills
