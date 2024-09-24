@@ -1,8 +1,8 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Saloni Pawar
+## Neeraj
 
-![Beatrice Tan](../images/Neeraj.jpg)
+![Beatrice Tan](../images/ME(1).jpg)
 
 Fullstack Web Developer.
 
