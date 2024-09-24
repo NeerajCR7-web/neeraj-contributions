@@ -1,15 +1,14 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Pavan Mistry
+## Neeraj Kumar
 
-![Pavan Mistry](../images/Neeraj.jpg)
+![Neeraj Kumar](../images/Neeraj.jpg)
 
 ## About me
 I am an Enthusiastic student eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Web developer with a strong eye for innovative design and a keen 
 understanding of techniques geared toward optimum user experience.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-green?style=flat-square&logo=GitHub&logoColor=white&link=https://https://github.com/pavan1003/)](https://github.com/pavan1003/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan1003/)](https://www.linkedin.com/in/pavan1003/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@pavan32100@gmail.com)](mailto:pavan32100@gmail.com)
 
 ## Skills
