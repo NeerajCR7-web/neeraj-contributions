@@ -2,7 +2,7 @@
 
 ## Neeraj
 
-![Beatrice Tan](../images/ME(1).jpg)
+![Neeraj](../images/ME(1).jpg)
 
 Fullstack Web Developer.
 
