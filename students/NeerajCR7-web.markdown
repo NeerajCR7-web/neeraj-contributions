@@ -28,17 +28,12 @@ GitHub: [NeerajCR7-web](https://github.com/NeerajCR7-web)
 *Examples:*
 
 ### Languages
-C++, C#, Python, TypeScript, JavaScript, HTML/CSS, Java, SQL, F#
+C++, C#, Python, JavaScript, HTML/CSS, Java, SQL
 
 ---
 
 ### Tools & Technologies
-JetBrains IDEs, Visual Studio, Git, GitHub, ReactJS
-
----
-
-### Principles
-Agile, Scrum, Kanban, Software as a Service, Object-Oriented Design
+Visual Studio, Figma, GitHub, Miro
 
 ---
 
