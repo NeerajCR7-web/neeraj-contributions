@@ -15,14 +15,6 @@ GitHub: [NeerajCR7-web](https://github.com/NeerajCR7-web)
 | - | - |
 | Flow | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/) |
 
-[&#10132; Back to Class List](/)
-
----
-
-<a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
-</a>
-
 # Skills & Qualifications
 
 *Examples:*
@@ -41,3 +33,12 @@ Visual Studio, Figma, GitHub, Miro
 Communication, collaboration, adaptability, problem-solving, critical thinking
 
 ---
+
+[&#10132; Back to Class List](/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
+
