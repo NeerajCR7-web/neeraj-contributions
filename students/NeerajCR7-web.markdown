@@ -22,3 +22,27 @@ GitHub: [NeerajCR7-web](https://github.com/NeerajCR7-web)
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
+
+# Skills & Qualifications
+
+*Examples:*
+
+### Languages
+C++, C#, Python, TypeScript, JavaScript, HTML/CSS, Java, SQL, F#
+
+---
+
+### Tools & Technologies
+JetBrains IDEs, Visual Studio, Git, GitHub, ReactJS
+
+---
+
+### Principles
+Agile, Scrum, Kanban, Software as a Service, Object-Oriented Design
+
+---
+
+### Soft Skills
+Communication, collaboration, adaptability, problem-solving, critical thinking
+
+---
